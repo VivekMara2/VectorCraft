@@ -136,23 +136,3 @@ When adding new azd environment variables, please remember to update:
 1. [ADO pipeline](.azdo/pipelines/azure-dev.yml).
 1. [Github workflows](.github/workflows/azure-dev.yml)
 
-### Adding new UI strings
-
-When adding new UI strings, please remember to update all translations.
-For any translations that you generate with an AI tool,
-please indicate in the PR description which language's strings were AI-generated.
-
-Here are community contributors that can review translations:
-
-| Language | Contributor         |
-|----------|---------------------|
-| Danish   | @EMjetrot           |
-| French   | @manekinekko        |
-| Japanese | @bnodir             |
-| Norwegian| @@jeannotdamoiseaux |
-| Portugese| @glaucia86          |
-| Spanish  | @miguelmsft         |
-| Turkish  | @mertcakdogan       |
-| Italian  | @ivanvaccarics      |
-| Dutch    |                     |
-| Polish   | @michuhu            |
